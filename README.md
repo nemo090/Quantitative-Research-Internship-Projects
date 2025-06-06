@@ -23,5 +23,6 @@
 
 ---
 
-📂 每個 `.ipynb` 檔案皆包含完整程式碼與回測邏輯，詳細檔案請參考 **Strategy_example** 資料夾
+📁 每個 `.ipynb` 檔案皆包含完整程式碼與回測邏輯，詳細檔案請參考 [Strategy_example 資料夾](./Strategy_example)。
+
 
